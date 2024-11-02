@@ -1,5 +1,4 @@
-# Multi-Agent RL passage formation for ICRA 2022
-Repository containing the code base for training the multi-agent coordination policy used in the paper."Decentralized Multi-robot Path Planning using Graph Neural Networks"
+# Repository containing the code base for training the multi-agent coordination policy used in the paper."Decentralized Multi-robot Path Planning using Graph Neural Networks"
 
 
 
